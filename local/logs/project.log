@@ -1,0 +1,74 @@
+2017-06-04T15:11:15.110Z - normal: Load ~/.CocosCreator/settings.json
+2017-06-04T15:11:15.136Z - normal: checking language setting...
+2017-06-04T15:11:15.137Z - normal: Language: zh
+2017-06-04T15:11:19.256Z - success: protocol editor-framework registered
+2017-06-04T15:11:19.258Z - success: protocol app registered
+2017-06-04T15:11:19.259Z - success: protocol theme registered
+2017-06-04T15:11:19.259Z - success: protocol profile registered
+2017-06-04T15:11:19.259Z - success: protocol packages registered
+2017-06-04T15:11:19.260Z - success: protocol unpack registerred
+2017-06-04T15:11:19.260Z - success: protocol disable-commonjs registerred
+2017-06-04T15:11:19.559Z - normal: connected!
+2017-06-04T15:11:19.574Z - normal: Check project D:\code\cocoscreator\start_project
+2017-06-04T15:11:19.586Z - normal: Initializing Cocos2d
+2017-06-04T15:11:20.810Z - normal: Initializing Asset Database
+2017-06-04T15:11:21.007Z - success: protocol uuid registerred
+2017-06-04T15:11:21.007Z - success: protocol db registerred
+2017-06-04T15:11:21.008Z - success: protocol thumbnail registerred
+2017-06-04T15:11:21.009Z - normal: Loading editor/builtin packages
+2017-06-04T15:11:21.127Z - success: anysdk loaded
+2017-06-04T15:11:21.847Z - success: assets loaded
+2017-06-04T15:11:21.855Z - success: builder loaded
+2017-06-04T15:11:21.867Z - success: hierarchy loaded
+2017-06-04T15:11:21.878Z - success: inspector loaded
+2017-06-04T15:11:21.884Z - success: keystore loaded
+2017-06-04T15:11:21.895Z - success: node-library loaded
+2017-06-04T15:11:21.902Z - success: package-asset loaded
+2017-06-04T15:11:21.912Z - success: preferences loaded
+2017-06-04T15:11:21.977Z - success: project-importer loaded
+2017-06-04T15:11:21.987Z - success: project-settings loaded
+2017-06-04T15:11:21.995Z - success: ui-kit loaded
+2017-06-04T15:11:22.002Z - success: ui-grid loaded
+2017-06-04T15:11:22.023Z - success: scene loaded
+2017-06-04T15:11:22.028Z - success: sprite-editor loaded
+2017-06-04T15:11:22.048Z - success: store loaded
+2017-06-04T15:11:22.073Z - success: timeline loaded
+2017-06-04T15:11:22.074Z - normal: Loading builtin packages
+2017-06-04T15:11:22.084Z - success: asset-db-debugger loaded
+2017-06-04T15:11:22.089Z - success: code-editor loaded
+2017-06-04T15:11:22.092Z - success: color-picker loaded
+2017-06-04T15:11:22.104Z - success: console loaded
+2017-06-04T15:11:22.112Z - success: package-manager loaded
+2017-06-04T15:11:22.122Z - success: tester loaded
+2017-06-04T15:11:22.129Z - success: ui-kit-preview-extra loaded
+2017-06-04T15:11:22.137Z - success: ui-kit-preview loaded
+2017-06-04T15:11:22.151Z - success: ui-tree loaded
+2017-06-04T15:11:22.398Z - normal: Initializing project D:\code\cocoscreator\start_project
+2017-06-04T15:11:22.410Z - normal: Loading packages
+2017-06-04T15:11:22.427Z - normal: Watching packages
+2017-06-04T15:11:22.495Z - normal: Run Application
+2017-06-04T15:11:25.879Z - success: preview server running at http://localhost:7457
+2017-06-04T15:11:42.755Z - normal: 1.5.0
+2017-06-04T15:20:11.409Z - normal: Compiled project javascript file successfully
+2017-06-04T15:20:27.929Z - normal: Compiled project javascript file successfully
+2017-06-04T15:53:24.155Z - normal: Compiled project javascript file successfully
+2017-06-04T15:53:36.559Z - normal: Compiled project javascript file successfully
+2017-06-04T15:56:13.718Z - normal: Compiled project javascript file successfully
+2017-06-04T15:58:55.089Z - normal: Compiled project javascript file successfully
+2017-06-04T16:02:47.145Z - normal: Compiled project javascript file successfully
+2017-06-04T16:04:15.041Z - normal: Compiled project javascript file successfully
+2017-06-04T16:05:36.225Z - error: TypeError: Cannot read property 'uuid' of null
+    at SVGGElement.<anonymous> (D:\CocosCreator\resources\app.asar\editor\page\gizmos\elements\gizmo.js:1:5399)
+2017-06-04T16:12:53.364Z - normal: Compiled project javascript file successfully
+2017-06-04T16:13:58.611Z - normal: Compiled project javascript file successfully
+2017-06-05T14:23:08.598Z - normal: Compiled project javascript file successfully
+2017-06-05T14:57:13.585Z - normal: Compiled project javascript file successfully
+2017-06-05T15:15:17.635Z - success: API data generated and copied to D:\code\cocoscreator\start_project\creator.d.ts
+2017-06-05T15:15:22.794Z - success: VS Code extension installed to C:\Users\夜凉如梦\.vscode\extensions
+2017-06-05T15:15:25.129Z - normal: Compiled project javascript file successfully
+2017-06-05T15:16:14.864Z - normal: Compiled project javascript file successfully
+2017-06-05T15:20:07.977Z - normal: Compiled project javascript file successfully
+2017-06-05T15:21:27.348Z - normal: Compiled project javascript file successfully
+2017-06-05T15:22:20.865Z - normal: Compiled project javascript file successfully
+2017-06-05T15:23:32.194Z - normal: Compiled project javascript file successfully
+2017-06-05T15:24:01.310Z - normal: Compiled project javascript file successfully
